@@ -1,4 +1,4 @@
-# 
+# Mejor Semantic Code Search extensiones. Con ejecución de código y gestión de memoria — optimizado para el máximo rendimiento y eficiencia.
 
 
 
